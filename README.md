@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hey 👋, This is Evstegney Chachlyk
+[![Gmail Badge](https://img.shields.io/badge/-evstegneych@mail.ru-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:evstegneych@mail.ru)](mailto:evstegneych@mail.ru) [![Github Badge](https://img.shields.io/badge/-Waitrum-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Waitrum/)](https://www.github.com/Waitrum/) 
+![Profile views](https://gpvc.arturio.dev/Waitrum)  
+* [VK](https://vk.com/e.chachlyk)
 
-<!--
-**Waitrum/waitrum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* [instagram](https://www.instagram.com/evstegneych/)
+<p align='left'>🌟 Skills:</p>
 
-Here are some ideas to get you started:
+- Python
+    - aiohttp
+    - flask
+    - vkwave  ?)
+    - peewee _ peewee_async 
+    - asyncio
+    
+- Golang
+- Vue.js
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Some of my Github Stats
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Waitrum&show_icons=true&include_all_commits=true)](https://github.com/Waitrum/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waitrum&layout=compact)](https://github.com/Waitrum/github-readme-stats)
