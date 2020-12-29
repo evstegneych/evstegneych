@@ -14,6 +14,10 @@
     
 [![Golang](https://img.shields.io/badge/Golang---?logo=go&style=for-the-badge&color=ccccff)](https://golang.org)
 
+---
+
+<p align='left'>🌟 Low skills:</p>
+
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript&link=https://www.ecma-international.org/&style=for-the-badge)](https://www.ecma-international.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&link=https://nodejs.org&style=for-the-badge)](https://nodejs.org)
 [![Vue.js](https://img.shields.io/badge/Vue---?logo=vue.js&logoColor=white&style=for-the-badge)](https://ru.vuejs.org/)
