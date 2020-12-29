@@ -11,12 +11,20 @@
 <p align='left'>🌟 Skills:</p>
 
 [![Python](https://img.shields.io/badge/Python---?logo=python&style=for-the-badge&color=ccccff)](https://python.org) 
-    
-[![Golang](https://img.shields.io/badge/Golang---?logo=go&style=for-the-badge&color=ccccff)](https://golang.org)
+- bots-for-social-network
+- rest-api
+    - aiohttp
+    - vkwave ?)
+    - peewee _ peewee_async
+    - asyncio
+    - flask
+
 
 ---
 
 <p align='left'>🌟 Low skills:</p>
+
+[![Golang](https://img.shields.io/badge/Golang---?logo=go&style=for-the-badge&color=ccccff)](https://golang.org)
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript&link=https://www.ecma-international.org/&style=for-the-badge)](https://www.ecma-international.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&link=https://nodejs.org&style=for-the-badge)](https://nodejs.org)
