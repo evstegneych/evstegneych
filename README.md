@@ -12,7 +12,8 @@
 
 [![Python](https://img.shields.io/badge/Python---?logo=python&style=for-the-badge&color=ccccff)](https://python.org) 
 - bots-for-social-network
-    - vkwave ?)
+    - vkwave
+    - vk_api
 - rest-api
     - aiohttp
     - peewee _ peewee_async
