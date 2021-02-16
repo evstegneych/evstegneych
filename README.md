@@ -17,9 +17,10 @@
     - vk_api
 - rest-api
     - aiohttp
-    - peewee _ peewee_async
+    - peewee % peewee_async
     - asyncio
     - flask
+    - fastapi
 
 
 ---
