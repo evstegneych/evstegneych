@@ -11,7 +11,10 @@
 
 <p align='left'>🌟 Skills:</p>
 
-[![Python](https://img.shields.io/badge/Python---?logo=python&style=for-the-badge&color=ccccff)](https://python.org) 
+[![Dart](https://img.shields.io/badge/Dart---?logo=Dart&style=for-the-badge&color=ccccff&logoColor=purple)](https://dart.dev) 
+[![Flutter](https://img.shields.io/badge/Flutter---?logo=Flutter&style=for-the-badge&color=ccccff&logoColor=purple)](https://flutter.dev) 
+
+[![Python](https://img.shields.io/badge/Python---?logo=python&style=for-the-badge&color=ccccff&logoColor=purple)](https://python.org) 
 - bots-for-social-network
     - vkwave
     - vk_api
@@ -27,7 +30,7 @@
 
 <p align='left'>🌟 Low skills:</p>
 
-[![Golang](https://img.shields.io/badge/Golang---?logo=go&style=for-the-badge&color=ccccff)](https://golang.org)
+[![Golang](https://img.shields.io/badge/Golang---?logo=go&style=for-the-badge&color=ccccff&logoColor=purple)](https://golang.org)
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript&link=https://www.ecma-international.org/&style=for-the-badge)](https://www.ecma-international.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&link=https://nodejs.org&style=for-the-badge)](https://nodejs.org)
