@@ -40,5 +40,7 @@
 ---
 
 ## Some of my Github Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=Waitrum&show_icons=true&include_all_commits=true&bg_color=90,904e95,f664af&title_color=fff&text_color=fff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waitrum&bg_color=90,904e95,f664af&title_color=fff&text_color=fff)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Waitrum&show_icons=true&include_all_commits=true&bg_color=90,904e95,561394&title_color=fff&text_color=fff&hide_border=true&border_radius=15)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waitrum&bg_color=90,904e95,561394&title_color=fff&text_color=fff&hide_border=true&border_radius=15)
