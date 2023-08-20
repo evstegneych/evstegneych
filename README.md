@@ -6,7 +6,7 @@
 # 💫 About Me:
 > Senior GetX engineer
 
-[![Gmail Badge](https://img.shields.io/badge/-evstegneych@mail.ru-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:evstegneych@mail.ru)](mailto:evstegneych@mail.ru) [![Github Badge](https://img.shields.io/badge/-Waitrum-grey?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Waitrum/)](https://www.github.com/Waitrum/) 
+[![Gmail Badge](https://img.shields.io/badge/-evstegneych@mail.ru-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:evstegneych@mail.ru)](mailto:evstegneych@mail.ru) [![Github Badge](https://img.shields.io/badge/-evstegneych-grey?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/evstegneych/)](https://www.github.com/evstegneych/) 
 
 [![VK](https://img.shields.io/badge/VK---?logo=vk&style=for-the-badge&color=7fa7d4)](https://vk.com/e.chachlyk)
 [![instagram](https://img.shields.io/badge/instagram---?logo=instagram&style=for-the-badge&color=ffc0cb)](https://www.instagram.com/evstegneych/)
