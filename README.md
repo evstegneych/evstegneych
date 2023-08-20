@@ -1,7 +1,7 @@
 ----
 
 ## Hey 👋, This is Evstegney Chachlyk
-![Profile views](https://gpvc.arturio.dev/Waitrum)
+![](https://komarev.com/ghpvc/?username=evstegneych)
 
 # 💫 About Me:
 > Senior GetX engineer
